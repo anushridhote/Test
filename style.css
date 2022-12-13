@@ -9,13 +9,7 @@
   color: #ffff;
   background: rgb(142, 73, 232);
 }
-body{
-  width: 100%;
-  height: 100vh;
-  /* overflow: hidden; */
-  padding: 10px;
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
-}
+
 .wrapper{
   background: #fff;
   max-width: 400px;
